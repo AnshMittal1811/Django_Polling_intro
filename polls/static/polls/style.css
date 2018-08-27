@@ -1,0 +1,14 @@
+li a{
+    color: white;
+    font-weight: bold;
+}
+
+ul {
+    color: white;
+    font-weight: bold;
+}
+
+body {
+    background: url("images/tenor.gif") no-repeat;
+    background-size: 100%
+}
